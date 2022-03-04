@@ -1,0 +1,11 @@
+{
+    "name": "CidiaWebsiteDump_companion",
+    "description": "CidiaWebsiteDump Companion",
+    "path": "CidiaWebsiteDump_companion.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://mpiodijhokgodhhofbcjdecpffjipkle/",
+        "chrome-extension://efnbkdcfmcmnhlkaijjjmhjjgladedno/",
+        "chrome-extension://pfocgciignlhlijcdpkbhmioobagfpmd/"
+    ]
+}
